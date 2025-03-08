@@ -16,7 +16,7 @@ Instructions for installing Hugo can be found [here](https://gohugo.io/getting-s
 
 The content for the [Harbor blog](https://goharbor.io/blog) is in [`content/blog`](./content/blog), while the content for the Harbor documentation is in the [`docs`](./docs) folder.
 
-The latest (edge) version of the documentation lives in the [`docs`](./docs) folder on the `main` branch, and is always viewable on https://goharbor.io/docs/edge. Documentation for specific released versions lives in its own release branch, for example `release-2.1.0`.
+The latest (edge) version of the documentation lives in the [`docs`](./docs) folder on the `main` branch, and is a lways viewable on https://goharbor.io/docs/edge. Documentation for specific released versions lives in its own release branch, for example `release-2.1.0`.
 
 ### Creating a PR
 
